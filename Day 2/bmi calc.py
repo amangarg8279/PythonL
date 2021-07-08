@@ -1,5 +1,0 @@
-height=input("Please enter your height in meter")
-weight=input("please enter your weight in kg")
-f_height=float(height)
-f_weight=float(weight)
-print(f_weight/(f_height**f_height))

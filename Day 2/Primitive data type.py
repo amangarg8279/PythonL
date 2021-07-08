@@ -1,0 +1,11 @@
+#String
+print("Aman"[3])
+#integer
+val=564
+val2=45
+print(val+val2)
+#boolean
+print(True)
+#Float
+vals=445.45
+print(vals)
